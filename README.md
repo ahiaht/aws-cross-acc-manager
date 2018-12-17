@@ -1,0 +1,1 @@
+# aws-cross-acc-manager
